@@ -1,4 +1,4 @@
-# MyTinnitus-App
+# MyTinnitus 2021
 
 Better manage your tinnitus using tools such as a tracker, tone generator, decibel meter, etc.
 
